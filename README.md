@@ -1,3 +1,3 @@
 # PixelCodes
 All my Codes Will be Here
-| Contact on Sololearn @Pixels Ahead
+| https://LinkTr.ee/PixelsAhead for all my links
