@@ -4,7 +4,7 @@ print ("Welcome to PixelSpammer")
 #My Socials
 print ("by PixelsAhead@YT - https://linktr.ee/PixelsAhead")
 #Stuff no one cares about
-print ("Note : Type 99999999999999999999999999 for destroying a bad pc")
+print ("Note : Visit The PixelSpammer Brach in the PixelCodes Repository for The Updated Any Limit Spammer")
 
 #the thing that is needed to start the thing that spams
 spam_confirmation = input("Type /spam.egg : ")
