@@ -1,7 +1,7 @@
 #Introducing PixeLogin
 print ("Welcome to Pixe𝕃ogin")
 #My Socials
-print ("by PixelsAhead@YT - https://linktr.ee/PixelsAhead")
+print ("by PixelsAhead@YT - https://LinkTr.ee/PixelsAhead")
 #Starting Actual code
 #--------------------------#
 #Prompting to Enter Username
