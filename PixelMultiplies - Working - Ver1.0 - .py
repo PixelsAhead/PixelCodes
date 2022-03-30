@@ -1,7 +1,7 @@
 #Introducing PixelMultiplies
 print ("Welcome to PixelMultiplies")
 #My Socials
-print ("by PixelsAhead@YT - https://linktr.ee/PixelsAhead")
+print ("by PixelsAhead@YT - https://LinkTr.ee/PixelsAhead")
 print ("PixelMultiplies is for getting a list of multiples for a number..")
 #--------------------------#
 #Starting Actual code:
